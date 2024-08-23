@@ -23,7 +23,10 @@ The source code for this project includes the implementation of temperature sens
 
 A video demonstration of the project’s functionality is provided below. The video shows the thermostat in action, including temperature sensing, LED indication, and button interactions.
 
-[Click here to watch the video](CS350Project1.MOV)
+<video width="600" controls>
+  <source src="CS 350 Project 1.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ## Reflection
 
